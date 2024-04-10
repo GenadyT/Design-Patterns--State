@@ -28,5 +28,5 @@ The "Context" object is BookingManager class.
 
 1. The project has a room order form intuitive WinForm user interface.
 2. Database bak file - Hotels1.bak file.
-3. Pattern diagram - pattern-diagram.jpg file.
+3. Pattern diagram - pattern-diagram.jpg file. 
 
